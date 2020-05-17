@@ -28,7 +28,9 @@ SECRET_KEY = '#e@hswzz-3gzdvfq1w)c3gtlm7sa)v@06#)-s9^-=)czi%(qyf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+'nikipw.pythonanywhere.com',
+]
 
 
 # Application definition
